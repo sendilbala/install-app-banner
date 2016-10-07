@@ -1,0 +1,40 @@
+{
+  "name": "Sainsburys Groceries",
+  "short_name": "Sainsburys Groceries",
+  "icons": [
+    {
+      "src": "mobile-app-icon-48X.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "mobile-app-icon-72X.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "mobile-app-icon-96X.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "mobile-app-icon-144X.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "mobile-app-icon-192X.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.sainsburys.gol"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
